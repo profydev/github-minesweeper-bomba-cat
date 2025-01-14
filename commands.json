@@ -1,3 +1,5 @@
 {
-  "commands": [git checkout -B game]
+  "commands": [
+    "clear A8"
+  ]
 }
